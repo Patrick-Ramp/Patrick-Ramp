@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Patrick Ramp<br>👀 I’m interested in Cyber Security, Virtualization, Cloud, Networking, Rust..<br>🌱 I’m currently learning Rust, Docker, Kubernetes.<br>💞️ I’m looking to collaborate cool open source tools and projects.<br>📫 How to reach me GitHub, Linkedin.
+👋 Hi, I’m Patrick Ramp<br>👀 I’m interested in Linux, Cyber Security, Virtualization, Cloud, Networking, Rust.<br>🌱 I’m currently learning Rust, Docker, Kubernetes.<br>💞️ I’m looking to collaborate on cool open source tools and projects.<br>📫 How to reach me GitHub, Linkedin.
 
 
 ## 🌐 Socials:
